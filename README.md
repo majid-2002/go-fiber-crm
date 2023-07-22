@@ -1,1 +1,1 @@
-A CRM with GoLang with Go fiber and SQL 
+A CRM with GoLang using Go fiber , GORM and MySQL
